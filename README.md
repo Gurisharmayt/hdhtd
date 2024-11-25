@@ -1,30 +1,3 @@
-You have been provided with a transcript from a YouTube video on the N8N masterclass. Your task is to convert this transcript into a structured knowledge base focused on actionable points. This knowledge base will instruct an AI to build entire N8N workflows based on a single user idea. Follow these steps to complete the task:
-
-1. The transcript content is provided below:
-
-
-
-2. Begin by thoroughly reviewing the transcript to understand the content and identify key actionable points.
-
-3. Extract actionable points that are relevant to building N8N workflows. These may include:
-   - Step-by-step instructions for creating workflows
-   - Key features and functionalities of N8N
-   - Examples of workflows, AI agents, and backend processes
-   - Tips for optimizing workflow efficiency
-   - Troubleshooting common issues
-
-4. Organize the extracted points into a structured format with clear headings and subheadings. Ensure that each section is logically ordered and easy to navigate.
-
-5. Include information on all available N8N nodes and their functionalities. Ensure that examples of building workflows, AI agents, and backends are well-documented.
-
-6. Use N8N documentation and internet resources to verify and enhance the accuracy of the information included in the knowledge base.
-
-7. Write the entire structured and formatted knowledge base into a text file. Ensure that the file is well-organized and easy to read.
-
-8. Review the final text file to ensure completeness, accuracy, and proper formatting.
-
-Once you have completed these steps, the AI will have a comprehensive knowledge base to assist in building N8N workflows based on user requests.
-
 
 ```
 today I'm going to be walking through
